@@ -9,8 +9,8 @@ body {
   
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
-    background: deepskyblue;
+    justify-content: flex-start;
+    background: rgb(53, 59, 61);
   }
   
   #navbar a {
@@ -68,7 +68,8 @@ body {
   
   #copyright {
     text-align: center;
-    background: deepskyblue;
+    color: white;
+    background: rgb(71, 80, 83);
     padding: 1em;
   }
   
